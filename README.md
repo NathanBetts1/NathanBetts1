@@ -9,10 +9,10 @@ Stage 3 UCD Computer Science Undergraduate and tech enthusiast.
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <hr />
-</div>
 
 ### GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanBetts1&layout=compact&langs_count=6&theme=github_dark)]
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NathanBetts1&theme=black-ice)](https://git.io/streak-stats)
+</div>
