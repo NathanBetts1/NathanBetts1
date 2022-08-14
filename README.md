@@ -13,6 +13,6 @@ Stage 3 UCD Computer Science Undergraduate and tech enthusiast.
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanBetts1s&layout=compact&langs_count=6&theme=github_dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanBetts1&layout=compact&langs_count=6&theme=github_dark)]
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NathanBetts1&theme=black-ice)](https://git.io/streak-stats)
