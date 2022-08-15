@@ -10,7 +10,7 @@ I'm a Stage 3 UCD Computer Science Undergraduate and tech enthusiast.
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <hr />
 </div>
-## Github Stats
+  <h3>Github Stats</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanBetts1&layout=compact&langs_count=6&theme=github_dark)]
 
