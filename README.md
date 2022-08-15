@@ -1,6 +1,8 @@
 ## 👋 Hey, I'm Nathan,
 I'm a Stage 3 UCD Computer Science Undergraduate and tech enthusiast.
+<br>
 [My LinkedIn](https://ie.linkedin.com/in/nathan-betts-6032a0246?trk=people-guest_people_search-card)
+![LinkedIn Logo](https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png)
 
 <div align="center">
 
