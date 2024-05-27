@@ -1,5 +1,5 @@
 ## 👋 Hey, I'm Nathan,
-I'm a Stage 3 UCD Computer Science Undergraduate and tech enthusiast.
+I'm a Stage 4 UCD Computer Science Undergraduate and tech enthusiast.
 <br>
 
 My [LinkedIn](https://ie.linkedin.com/in/nathan-betts-6032a0246?trk=people-guest_people_search-card)
