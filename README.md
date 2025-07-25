@@ -1,5 +1,5 @@
 ## 👋 Hey, I'm Nathan,
-I'm a Stage 4 UCD Computer Science Undergraduate and tech enthusiast.
+I'm a Software Engineer and tech enthusiast.
 <br>
 
 My [LinkedIn](https://ie.linkedin.com/in/nathan-betts-6032a0246?trk=people-guest_people_search-card)
@@ -8,7 +8,7 @@ My [LinkedIn](https://ie.linkedin.com/in/nathan-betts-6032a0246?trk=people-guest
 
   <h3>🤟 Languages</h3>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/C-1572C?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
